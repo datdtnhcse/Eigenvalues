@@ -1,2 +1,2 @@
-# Eigen
+# Eigenvalues
 Find eigenvalues.
